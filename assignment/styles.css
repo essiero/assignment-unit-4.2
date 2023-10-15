@@ -1,0 +1,19 @@
+header {
+    background-color: cornflowerblue;
+}
+h2 {
+    background-color: firebrick;
+    color:floralwhite;
+}
+h3 {
+background-color: tomato;
+color:antiquewhite;
+}
+img{
+    max-width: 40%;
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    border: 15px solid black;
+
+}
